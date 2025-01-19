@@ -40,7 +40,7 @@ const Header = () => {
         </div>
         <div className="header-middle">
             <p>Places to Stays</p>
-            <p>Experiences</p>
+            <p>Experiencess</p>
             <p> Online Experience</p>
         </div>
         <div className="header_right">
